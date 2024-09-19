@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tecksitear.github.io/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/app/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/assets/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/css/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/data/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/includes/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/item/sitemap.html.gz
+Sitemap: https://tecksitear.github.io/src/sitemap.html.gz
